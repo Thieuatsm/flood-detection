@@ -1,4 +1,4 @@
-# 🌊 Flood Detection — Multimodal Image Classifier
+#  Flood Detection — Multimodal Image Classifier
 
 A multimodal deep learning project that classifies images as **flood** or **no-flood** using both visual and textual features. Built as a portfolio project targeting AI/ML Engineer internship roles.
 
